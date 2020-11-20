@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Fura2425)
+![](https://komarev.com/ghpvc/?username=Fura2425&style=flat&color=3C629D)
 
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
