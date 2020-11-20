@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Fura2425&style=flat-square&color=2F343F)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fura2425&include_all_commits=true&count_private=true&show_icons=true&theme=nord&title_color=D8DDE7)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=nord&title_color=D8DDE7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fura2425&theme=nord&title_color=D8DDE7)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
