@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Fura2425&style=flat-square&color=2F343F)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fura2425&repo=Fura2425)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fura2425)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fura2425&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
