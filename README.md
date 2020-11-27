@@ -5,7 +5,9 @@
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&theme=nord&title_color=D8DDE7&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fura2425&repo=dotfiles&show_owner=true&theme=nord&title_color=D8DDE7)](https://github.com/Fura2425/dotfiles)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&theme=nord&title_color=D8DDE7&v=2)](https://wakatime.com/@Fura2425)
 
 
 <!--
