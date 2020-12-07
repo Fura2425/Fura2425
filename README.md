@@ -15,7 +15,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&layout=compact&theme=nord&title_color=D8DDE7&v=2)](https://wakatime.com/@Fura2425"/>
 </a>
-<a style="vertical-align: top;" href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a  href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center" src="https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
 </a>
 </div>
