@@ -2,7 +2,6 @@
 
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fura2425&repo=dotfiles&show_owner=true&theme=nord&title_color=D8DDE7)](https://github.com/Fura2425/dotfiles)
-
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fura2425&include_all_commits=true&count_private=true&show_icons=true&theme=nord&title_color=D8DDE7" />
