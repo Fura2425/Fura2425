@@ -1,13 +1,24 @@
 ![](https://komarev.com/ghpvc/?username=Fura2425&style=flat-square&color=2F343F)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fura2425&include_all_commits=true&count_private=true&show_icons=true&theme=nord&title_color=D8DDE7)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fura2425&repo=dotfiles&show_owner=true&theme=nord&title_color=D8DDE7)](https://github.com/Fura2425/dotfiles)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&theme=nord&title_color=D8DDE7&v=2)](https://wakatime.com/@Fura2425)
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fura2425&include_all_commits=true&count_private=true&show_icons=true&theme=nord&title_color=D8DDE7" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+</a>
+</div>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&layout=compact&theme=nord&title_color=D8DDE7&v=2)](https://wakatime.com/@Fura2425"/>
+</a>
+<a style="vertical-align: top;" href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="https://raw.githubusercontent.com/Fura2425/Fura2425/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg"/>
+</a>
+</div>
 
 
 <!--
