@@ -11,7 +11,7 @@
 </a>
 </div>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://wakatime.com/@Fura2425">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fura2425&layout=compact&theme=nord&title_color=D8DDE7&v=2)](https://wakatime.com/@Fura2425"/>
 </a>
 <a  href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
